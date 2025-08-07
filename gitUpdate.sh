@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # Optional: Change this to your main branch name if it's not master
-BRANCH="master"
+BRANCH="main"
 
 echo "📁 Syncing working directory to GitHub..."
 
